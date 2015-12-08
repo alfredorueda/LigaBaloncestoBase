@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "LigaBaloncesto",
+    "packageName": "com.example.ligabaloncesto",
+    "packageFolder": "com/example/ligabaloncesto",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "a6012b8ce26d26422d07e3c932fdf3760e01f0a3"
+  }
+}
